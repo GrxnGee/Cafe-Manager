@@ -1,0 +1,321 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CafeManager
+</name>
+</assembly>
+<members>
+<member name="T:CafeManager.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources._4660062">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.BackButton_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.Buy_CheckBillButton_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.CheckStovkButton_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.ConfirmButton_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.DashBoardButton_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.DeleteButtonPNG_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.DeleteEmpButton_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.EmployeeListButton_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.LogoCafe_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.pngegg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.ProductButton_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.ShiftButton_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.เช็คบิล_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.เพิ่มพนักงาน_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.เพิ่มพนักงานหัว_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.เพิ่มสินค้า">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.เพิ่มสินค้า_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.เพิ่มสินค้าหัว_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.แก้ไขข้อมูลพนักงาน_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.แก้ไขข้อมูลพนักงานหัว_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.แก้ไขข้อมูลสินค้า_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.แก้ไขข้อมูลสินค้าหัว_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.แก้ไขข้อมูลสินค้าหัว_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.การเข้าทำงาน_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.จำนวนสินค้าคงเหลือ_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.รายชื่อพนักงาน_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.ลงชื่อเข้าใช้ระบบ_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.ลงชื่อเข้าใช้ระบบ_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CafeManager.My.Resources.Resources.สต็อกสินค้า_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.BillDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.FrontProductDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.InStockProductDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.EmployeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.WorkHistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.BillRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.FrontProductRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.InStockProductRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.EmployeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.WorkHistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.BillRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.FrontProductRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.InStockProductRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.EmployeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeData.WorkHistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeDataTableAdapters.BillTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeDataTableAdapters.FrontProductTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeDataTableAdapters.InStockProductTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeDataTableAdapters.EmployeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeDataTableAdapters.WorkHistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeDataTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CafeManager.BalanceCafeDataTableAdapters.TableAdapterManager.UpdateUpdatedRows(CafeManager.BalanceCafeData,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CafeManager.BalanceCafeDataTableAdapters.TableAdapterManager.UpdateInsertedRows(CafeManager.BalanceCafeData,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CafeManager.BalanceCafeDataTableAdapters.TableAdapterManager.UpdateDeletedRows(CafeManager.BalanceCafeData,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CafeManager.BalanceCafeDataTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CafeManager.BalanceCafeDataTableAdapters.TableAdapterManager.UpdateAll(CafeManager.BalanceCafeData)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeDataTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CafeManager.BalanceCafeDataTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
